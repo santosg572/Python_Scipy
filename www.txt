@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/numpy-random-randn-python/
+https://www.mathworks.com/help/matlab/ref/fft.html
+https://www.statology.org/binomial-test-python/
+https://stattrek.com/anova/homogeneity/bartletts-test
+
+https://bookdown.org/dietrichson/metodos-cuantitativos/test-de-normalidad.html
+
+
